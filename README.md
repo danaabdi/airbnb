@@ -17,10 +17,7 @@ This project explores Airbnb listing data with the goal of understanding **host 
 
 ## 📁 Files Included
 
-- `airbnb_analysis.ipynb` – main Jupyter Notebook with data exploration, cleaning, and visualization
-- `clean_airbnb.csv` – cleaned Airbnb dataset for reproducibility
-- `host_dashboard.png` – bar chart of top 20 hosts by number of listings
-- `summary_stats.csv` – file with aggregated price, mean, and std per neighborhood group
+- `Airbnb_Exercise_Student_Facing_0423 (3)-Copy1 (1).ipynb` – main Jupyter Notebook with data exploration, cleaning, and visualization
 
 ---
 
